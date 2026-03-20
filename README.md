@@ -25,16 +25,17 @@ A simple and interactive task manager built using **HTML, CSS, and JavaScript**.
 
 ## 📁 Project Structure
 project/
-│── index.html
-│── app.js
-│── ui.js
-│── storage.js
-│── utils.js
-│── css/
-│ └── style.css
-│── .gitignore
-│── README.md
-
+task-manager
+│
+├── index.html
+├── app.js
+├── ui.js
+├── storage.js
+├── utils.js
+├── css
+│ ├── style.css
+│ └── theme.css
+└── README.md
 
 ---
 
