@@ -1,0 +1,17 @@
+/* Light Theme */
+.light-theme {
+    --bg: #e6f0ff;        /* soft blue background */
+    --card-bg: #ffffff;
+    --text: #2d3436;
+    --item-bg: #f5f8ff;   /* light blue task cards */
+    --border: #dde6f5;
+}
+
+/* Dark Theme */
+.dark-theme {
+    --bg: #0f172a;
+    --card-bg: #1e293b;
+    --text: #f8fafc;
+    --item-bg: #334155;
+    --border: #475569;
+}
